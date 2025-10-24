@@ -6,8 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-rakotonirinaclaudius@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakotonirinaclaudius@gmail.com)
 [![Facebook](https://img.shields.io/badge/Facebook-Joro_Rakotonirina-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/joro%20rakotonirina)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
 
 </div>
 
@@ -36,7 +35,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 ### **Mobile & Desktop**
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -80,8 +79,6 @@
 - **💼 Full Stack Expertise**: From frontend to backend, I create complete, scalable solutions
 - **🔄 Agile Development**: Experience with modern development methodologies
 - **📱 Cross-Platform Development**: Mobile, web, and desktop applications
-- **🎨 UI/UX Focus**: Creating beautiful, user-friendly interfaces
-- **🔧 Problem Solving**: Turning complex challenges into elegant solutions
 
 ---
 
@@ -89,7 +86,6 @@
 
 - **🌐 Advanced Frontend Architectures**
 - **☁️ Cloud Technologies & DevOps**
-- **🤖 AI & Machine Learning Integration**
 - **📊 Data Visualization & Analytics**
 
 ---
@@ -98,10 +94,7 @@
 
 ## 🚀 Let's Build Something Amazing Together!
 
-**Turning ideas into reality, one line of code at a time.**
 
 [![Email](https://img.shields.io/badge/📧_Hire_Me-rakotonirinaclaudius@gmail.com-2EC866?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakotonirinaclaudius@gmail.com)
-
-⭐ **Feel free to explore my repositories and don't hesitate to reach out!**
 
 </div>
